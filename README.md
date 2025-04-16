@@ -1,1 +1,1 @@
-# Goat_NAS_AMR
+# Data set associated with the manuscript titled "Phenotypic and Genotypic Antimicrobial Susceptibility of Non-aureus Staphylococci in Dairy Goats" by Michelle P. Buckley, Fazal Sattar, Ganwu Li, Orhan Sahin, Roselle C. Busch, Amanda J. Kreuder, Paul J. Plummer, Patrick J. Gorden. 
